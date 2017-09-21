@@ -13,6 +13,7 @@ Markdown test:
 
 
 Days assigned to each member:
+
 | Day    | Team Member |
 | ------ |:-----------:|
 | Day 1  | Dominic     |
