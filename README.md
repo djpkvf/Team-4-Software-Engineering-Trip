@@ -1,5 +1,5 @@
 ### Team-4-Software-Engineering-Trip
-#Software Engineering Trip Out West
+# Software Engineering Trip Out West
 
 Days assigned to each member:
 | Day   | Team Member |
