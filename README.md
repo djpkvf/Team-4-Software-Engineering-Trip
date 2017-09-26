@@ -32,7 +32,8 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 **Car Rental**
 
 All members are above the age of 21, so all team members will be able to drive a rental vehicle. So for ultimate conveinence, our team will rent 1-2 rental vehicles. All of our team members could squeeze into a modest Jeep Grand Cherokee, but where's the fun in that?
-
+<details>
+  <summary> Click for Vehicle Options </summary>
 Vehicle options:
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option1.png" alt="Mid-Century Home" style="width:120px;height:90;">
@@ -40,12 +41,14 @@ Vehicle options:
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option2.png" alt="Mid-Century Home" style="width:120px;height:90;">
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option3.png" alt="Mid-Century Home" style="width:120px;height:90;">
+</details>
 
 Fun Budget: $1200, 2 cool cars
 
 Boring Budget: $410, 1 boring SUV
+**Fuel**
 <details>
-  <summary>**Fuel**</summary>
+  <summary>Click for Fuel Details </summary>
 
 [Gas prices are $2.97 in Pasadena](https://www.gasbuddy.com/GasPrices/California/Pasadena). Estimating 7 hours of driving time every day with a [Jeep Cherokee at 21 miles/gallon in the city](https://www.google.com/search?q=mpg+for+jeep+cherokee&rlz=1C1CHBD_enUS728US729&oq=mpg+for+jeep+chero&aqs=chrome.0.0j69i57j0l4.4240j0j7&sourceid=chrome&ie=UTF-8)
 
