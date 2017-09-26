@@ -103,7 +103,7 @@ Lodging Budget: $481
 Day 1 Budget:
 ### Day 2 - Disneyland
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disneyland-00-full.jpg.jpg" alt="Disneyland" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disneyland-00-full.jpg" alt="Disneyland" style="width:120px;height:90;">
 
 On Day 2, we are going for a full day trip to Disneyland! It will take us about an hour to get there, so we'll rise early and leave before 7 to get to the park when it opens! We will start our day there with breakfast at Carnation Cafe. We will be free to wander around Disneyland and its seven themed areas, making use of our MAXpass that allows us to make Fastpass tickets on our mobile devices, until we get hungry again and head to our lunch destination Bengal Barbecue.
 
@@ -121,7 +121,7 @@ Finally, we will definitely make sure to catch the fireworks show at 9:30.
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disney-fireworks.jpg" alt="Fireworks Show" style="width:100px;height:90;">
 
-Day 2 Budget: $95 for meals/drinks + $141 for tickets/entrance + $100+ souvenirs/extras = $336+ per person
+Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 5 for souvenirs/extras = $1680 total
 ### Day 3- Laguna Beach
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90;">
