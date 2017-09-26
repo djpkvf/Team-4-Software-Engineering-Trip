@@ -24,6 +24,22 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 ***
 ### Flight
 
+| Date          | Depart        | Arrive       |  
+| ------------- | ------------- |:------------:|
+| 12/17/17      | COU 05:50 AM  | LAX 09:42 AM |
+| 12/21/17      | LAX 12:00 PM  | COU 08:37 PM |
+
+
+A family member will take us to the Columbia Airport.
+
+Our flight to Los Angeles leaves at 5:50am on Sunday December 17th, but we will arrive an hour early to make it through security. We will arrive at 9:42 am in LAX and rent a vehicle to leave the airport and drive to our Air BnB in Pasadena.
+
+
+Our flight back to Columbia leaves at 12:00pm on Thursday December 21 and we will arrive back home in Columbia at 8:37pm where a family member will take us home. 
+
+
+
+
 ***
 ### Transportation
 ***
