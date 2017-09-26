@@ -33,7 +33,7 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 
 All members are above the age of 21, so all team members will be able to drive a rental vehicle. So for ultimate conveinence, our team will rent 1-2 rental vehicles. All of our team members could squeeze into a modest Jeep Grand Cherokee, but where's the fun in that?
 <details>
-  <summary> Click for Vehicle Options </summary>
+  <summary> Vehicle Options </summary>
 Vehicle options:
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option1.png" alt="Mid-Century Home" style="width:120px;height:90;">
@@ -48,10 +48,8 @@ Boring Budget: $410, 1 boring SUV
 
 </details>
 
-
-**Fuel**
 <details>
-  <summary>Click for Fuel Details </summary>
+  <summary> Fuel Details </summary>
 
 [Gas prices are $2.97 in Pasadena](https://www.gasbuddy.com/GasPrices/California/Pasadena). Estimating 7 hours of driving time every day with a [Jeep Cherokee at 21 miles/gallon in the city](https://www.google.com/search?q=mpg+for+jeep+cherokee&rlz=1C1CHBD_enUS728US729&oq=mpg+for+jeep+chero&aqs=chrome.0.0j69i57j0l4.4240j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -63,8 +61,6 @@ Boring Budget: $410, 1 boring SUV
 
 $35 * 4 days + $17.50 * 1 day (last day will have little driving) = $157.50 or approx $160
 
-
-
 Fuel Estimate 1 Vehicle= $160
 
 
@@ -75,6 +71,7 @@ Fuel Estimate 2 Vehicles=$320
 
 
 **Total Transportation budget= $570-$1520**
+
 
 
 ### Lodging
