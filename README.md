@@ -1,5 +1,6 @@
 # Team-4-Software-Engineering-Trip
-## Software Engineering Trip Out West, Pasadena, California
+
+## Trip to Pasadena, California
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
