@@ -32,15 +32,21 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 
 ### Lodging
 
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" alt="Mid-Century Home" style="width:120px;height:90;">
 
+To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and other desirable California destinations. With 4 beds, only one team member will have to sleep on the sofa!
+
+It is suggested that team members program a psuedo-random number generator to fairly decide who gets to sleep on the sofa.
+
+Lodging Budget: $481
 ## Days
 
 ### Day 1
 
-Total Budget:
+Day 1 Budget:
 ### Day 2
 
-Total Budget:
+Day 2 Budget:
 ### Day 3- Laguna Beach
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90;">
@@ -55,10 +61,10 @@ alt="Club54" width="240" height="180" border="10" /></a>
 
 *Club 54*
 
-**Total Budget: $900 for meals/drinks + $670 for activities = $1570**
+Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
 ### Day 4
 
-Total Budget:
+Day 4 Budget:
 ### Day 5
 
-Total Budget:
+Day 5 Budget:
