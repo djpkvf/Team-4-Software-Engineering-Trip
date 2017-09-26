@@ -87,7 +87,11 @@ Fuel Estimate 2 Vehicles=$320
 ***
 ### Lodging
 ***
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" alt="Mid-Century Home" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" alt="Mid-Century Home" style="width:120;height:90;">
+
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" width="60" height="60">
+
+image test
 
 To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and other desirable California destinations. With 4 beds, only one team member will have to sleep on the sofa!
 
