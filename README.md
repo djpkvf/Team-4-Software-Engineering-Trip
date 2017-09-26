@@ -14,9 +14,11 @@ Days assigned to each member:
 | Day 4  | Calvin      |
 | Day 5  | Murphy      |
 
+Flights: Dominic
+
 Transportation/Lodging: Braden
 
-Flights: Dominic
+
 
 ## Logistics
 
@@ -80,6 +82,8 @@ Fuel Estimate 1 Vehicle= $160
 
 Fuel Estimate 2 Vehicles=$320  
 </details>
+
+
 
 
 
