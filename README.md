@@ -20,6 +20,11 @@ Transportation/Lodging: Braden
 
 Flights: Dominic
 
+<details>
+  <summary>Click to expand</summary>
+  This is a test
+</details>
+
 ## Logistics
 
 We decided to plan the Flight, Transportation and Lodging first as constants, and then we planned the rest of the trip around these items. 
@@ -30,7 +35,7 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 ### Transportation
 ***
 **Car Rental**
-***
+
 All members are above the age of 21, so all team members will be able to drive a rental vehicle. So for ultimate conveinence, our team will rent 1-2 rental vehicles. All of our team members could squeeze into a modest Jeep Grand Cherokee, but where's the fun in that?
 
 Vehicle options:
@@ -77,7 +82,9 @@ To save money and have a cozy experience, we will be staying at an affordable "m
 It is suggested that team members program a psuedo-random number generator to fairly decide who gets to sleep on the sofa.
 
 Lodging Budget: $481
-***
+
+
+
 ## Days
 
 ### Day 1
