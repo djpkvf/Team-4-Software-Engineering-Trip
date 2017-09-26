@@ -101,7 +101,13 @@ Lodging Budget: $481
 
 ### Day 1
 
-Day 1 Budget:
+Our adventure in Los Angeles will begin at 9:42am.  In order to take in the most from LA we will want to see everything that it has to offer by going to Griffith's Observatory.  First, we will need to gather our luggage and then pick up our rental car.  We'll then get brunch at the Daily Grill, and then head to our rental house.  From there, we will then head to the observatory.  Parking is free, and the shuttle only cost $0.50 per person, so it's a cheap place to visit!
+
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%201/20170326_164451.jpg" alt="Griffith's Observatory" style="width:120px;height:90px;">
+
+After checking out the observatory, and the Hollywood sign, we will head down to Beverly Hills, and go to Rodeo Dr.  This is a famous location for shopping and drops you right into the wealth of celebrities.  We will also get a late lunch here at Via Alloro.  After we are done in Beverly Hills we'll head back home.  There we will refresh ourselves, and head out for drinks at Ruth's Chris Steak House. It's an upscale restaurant in Pasadena, and features a full bar for us to unwind at.
+
+Day 1 Budget: $17.50 for fees, $20 tipping, $575 food = $562.50 for the day
 ### Day 2 - Disneyland
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disneyland-00-full.jpg" alt="Disneyland" style="width:120px;height:90;">
