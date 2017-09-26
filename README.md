@@ -41,11 +41,14 @@ Vehicle options:
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option2.png" alt="Mid-Century Home" style="width:120px;height:90;">
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/transportPlan/option3.png" alt="Mid-Century Home" style="width:120px;height:90;">
-</details>
 
 Fun Budget: $1200, 2 cool cars
 
 Boring Budget: $410, 1 boring SUV
+
+</details>
+
+
 **Fuel**
 <details>
   <summary>Click for Fuel Details </summary>
