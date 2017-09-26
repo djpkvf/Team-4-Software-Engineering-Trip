@@ -4,6 +4,8 @@
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+**Trip Budget= $12,500**
+
 Days assigned to each member:
 
 | Day    | Team Member |
@@ -51,9 +53,9 @@ In the evening we will hit up the classy Speakeasy like VIP's, and then party as
 " target="_blank"><img src="http://img.youtube.com/vi/IbtU0OmzZbc/0.jpg" 
 alt="Club54" width="240" height="180" border="10" /></a>
 
-*Club 54
+*Club 54*
 
-**Total Budget: $900 for meals/drinks + $670 for activities = $1570
+**Total Budget: $900 for meals/drinks + $670 for activities = $1570**
 ### Day 4
 
 Total Budget:
