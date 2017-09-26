@@ -2,8 +2,6 @@
 
 ## Trip to Pasadena, California
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
 **Trip Budget= $12,500**
 
 Days assigned to each member:
@@ -115,3 +113,10 @@ Day 4 Budget:
 ### Day 5
 
 Day 5 Budget:
+
+
+
+
+
+## Special Thanks
+Thanks to Adam on Github for the [Markdown Tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
