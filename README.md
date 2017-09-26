@@ -145,38 +145,25 @@ alt="Club54" width="240" height="180" border="10" /></a>
 
 Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
 ### Day 4
+Ahhh Day 4, the day that I've been waiting for. Disneyland is cool, sure, but it doesn't match the cinematic value of Day 4. We start bright and early, Dominic is hard to wake up considering has absurd night before, but we get him up nonetheless; there's too much to do and not enough(just enough) time. We get up at 6:50, leave by 7:15, ( with enough time to fill up on gas) and then drive to Inglewood to go to The Rust Pot Cafe. Now the name may imply trash, but the food is anything but. Calvin gets the bully omelet($14.00), Dominic, still sick, gets the famous Belgian waffle($7.50), Braden get's the scrambled jamble($11.00), I get the big breakfast burger($12.00), and Lydia gets the overloaded breakfast sandwich($12.00); altogether we are set back $56.50.
 
-Day 4 Budget:
+Activity 1 is no big deal...we're just going to go to the new STAR WARS!! Now, it has been hard for me to refrain not sneaking out at night and going, but I refrained so to save face with my cohorts. It has been difficult nonetheless. Considering price of tickets, and a large popcor and a few drinks we spend $125.00. 
 
+After the movie, we go to Leo's Taco Stand, a recommendation from my friend in the area, this meal is going to be super affordable considering that there are items on the menu that run for $1.00. It is like Dollar General for your mouth, and I love it. Just to be safe...let's say we all spend $8.00 because I decide to go ham(I actually eat carnitas). $40.00. (It is Cash Only, so we have to remember to get some money once we stop)
+
+Now this one will hurt the wallet the most, but it will defintely strike the strongest chord(all puns intended). We are going to go to HAMILTON!!!!!!!! This trip is only 16 minutes away, but considering the timing, let's leave 2 hours and 16 minutes prior to the performance.  Tickets weren't cheap....$417 per, but considering our proximity to greatness, it'll be worth it.
+
+After we cry from exposure to pure awesomeness, we are going to stop by this little ice cream shop that I heard about called -8 Degrees Celsius Ice Cream. Amongst the bunch of us, let's shoot for $40.00 of expenditures.
+
+Day 4 Budget: 56.50 + 125.00 + 40.00 + 2085.00 + 40.00 = $2221.52
+Cost of Getting to Hang out with Friends and Watch Hamilton : Priceless
+
+AND SCENE!
 ### Day 5
 
-For our Grand Finale we will be hitting up Universal Studios Hollywood.  It's a 15.7 mile trip from our Pasedena AirBnb crib.  Thus we will wake up around 6:45am (Hopefully we can get Dominic to wake up by then), cook whatever leftover breakfast scraps we have, and hit the road by 7:15am.  Want to beat that early morning Highway 110 traffic.  
-
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%205/Spotlight_Globe_802x535.jpg" alt="UniStudios" style="width:120px;height:90px;">
+Day 5 Budget:
 
 
-* **$25** General Parking at UniStudios Hollywood, estimated **$15** for gas round trip.
----
-
-Ticket prices on 12/21: $116 (*5 people = **$580**)
-
----
-Food Schedule at the park includes:
-
- * Krusty Burger (**Lunch**)
-   * Average menu item price: **$11** (*5 people = **$55**)
-
- * Phineas Q. Butterfat's Ice Cream (**Snack**)
-   * Average menu item price: **$6** (*5 people = **$30**)
-
- * Three Broomsticks (**Dinner**)
-   * Average menu item price: **$15** (*5 people = **$75**)
-
----
-
-Can't forget to allocate $100 each for good-ole souvenirs (*5 people = **$500**)
-
-Day 5 Budget: **$1280 Total**, **$256** individually :+1:
 
 
 
