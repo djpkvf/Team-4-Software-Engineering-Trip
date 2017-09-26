@@ -23,10 +23,10 @@ Flights: Dominic
 ## Logistics
 
 We decided to plan the Flight, Transportation and Lodging first as constants, and then we planned the rest of the trip around these items. 
-
+***
 ### Flight
 
-
+***
 ### Transportation
 ***
 **Car Rental**
@@ -77,6 +77,7 @@ To save money and have a cozy experience, we will be staying at an affordable "m
 It is suggested that team members program a psuedo-random number generator to fairly decide who gets to sleep on the sofa.
 
 Lodging Budget: $481
+***
 ## Days
 
 ### Day 1
