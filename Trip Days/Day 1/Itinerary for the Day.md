@@ -12,10 +12,10 @@ Next, we are going to head to Rodeo Dr., which is a well-known street for having
 After we are done with our adventures in Beverly Hills, and Hollywood, we will begin our journey back towards Pasadena.  It will take a while to get there, and after we refresh ourselves at the house we'll then head to [Ruth's Chris Steak House](https://www.ruthschris.com/restaurant-locations/pasadena) in Pasadena.  We'll enjoy some dinner, and mainly drinks were.  It'll just be a social hangout, and if anyone is feeling like doing something after that is up to them.
 
 The budget for the events:
-**$2.50** - Shuttle fee
-**$15** - Parking in Beverly Hills
-**$20** - Tipping (parking)
-**$250** - Via Alloro (tip included)
-**$275** - Ruth's Chris Steak House (tip included)
+***$2.50** - Shuttle fee
+***$15** - Parking in Beverly Hills
+***$20** - Tipping (parking)
+***$250** - Via Alloro (tip included)
+***$275** - Ruth's Chris Steak House (tip included)
 
 **$562.50** for the entire day.
