@@ -147,11 +147,36 @@ Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
 ### Day 4
 
 Day 4 Budget:
+
 ### Day 5
 
-Day 5 Budget:
+For our Grand Finale we will be hitting up Universal Studios Hollywood.  It's a 15.7 mile trip from our Pasedena AirBnb crib.  Thus we will wake up around 6:45am (Hopefully we can get Dominic to wake up by then), cook whatever leftover breakfast scraps we have, and hit the road by 7:15am.  Want to beat that early morning Highway 110 traffic.  
+
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%205/Spotlight_Globe_802x535.jpg" alt="UniStudios" style="width:120px;height:90px;">
 
 
+* **$25** General Parking at UniStudios Hollywood, estimated **$15** for gas round trip.
+---
+
+Ticket prices on 12/21: $116 (*5 people = **$580**)
+
+---
+Food Schedule at the park includes:
+
+ * Krusty Burger (**Lunch**)
+   * Average menu item price: **$11** (*5 people = **$55**)
+
+ * Phineas Q. Butterfat's Ice Cream (**Snack**)
+   * Average menu item price: **$6** (*5 people = **$30**)
+
+ * Three Broomsticks (**Dinner**)
+   * Average menu item price: **$15** (*5 people = **$75**)
+
+---
+
+Can't forget to allocate $100 each for good-ole souvenirs (*5 people = **$500**)
+
+Day 5 Budget: **$1280 Total**, **$256** individually :+1:
 
 
 
