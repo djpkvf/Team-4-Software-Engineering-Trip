@@ -165,7 +165,7 @@ Cost of Getting to Hang out with Friends and Watch Hamilton : Priceless
 
 AND SCENE!
 
-### Day 5
+### Day 5 - Universal Studios Hollywood
 
 For our Grand Finale we will be hitting up Universal Studios Hollywood.  It's a 15.7 mile trip from our Pasedena AirBnb crib.  Thus we will wake up around 6:45am (Hopefully we can get Dominic to wake up by then), cook whatever leftover breakfast scraps we have, and hit the road by 7:15am.  Want to beat that early morning Highway 110 traffic.  
 
