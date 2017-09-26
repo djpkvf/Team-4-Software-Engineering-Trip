@@ -48,7 +48,7 @@ Flight Cost: $2,412
 
 All members are above the age of 21, **so all team members will be able to drive a rental vehicle**. So for ultimate conveinence, our team will rent 1-2 vehicles. All of our team members could squeeze into a modest Jeep Grand Cherokee, but where's the fun in that?
 
-**Total Transportation budget= $570-$1520
+**Total Transportation budget= $570-$1520**
 
 <details>
   <summary> Vehicle Options </summary>
@@ -94,7 +94,6 @@ To save money and have a cozy experience, we will be staying at an affordable "m
 It is suggested that team members program a psuedo-random number generator to fairly decide who gets to sleep on the sofa.
 
 Lodging Budget: $481
-
 
 
 ## Days
