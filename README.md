@@ -124,7 +124,7 @@ Finally, we will definitely make sure to catch the fireworks show at 9:30.
 Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 5 for souvenirs/extras = $1680 total
 ### Day 3- Laguna Beach
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90px;">
 
 On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
 
