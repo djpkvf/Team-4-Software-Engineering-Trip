@@ -40,6 +40,7 @@ Total Budget:
 
 Total Budget:
 ### Day 3- Laguna Beach
+![alt text](Team-4-Software-Engineering-Trip/Trip Days/Day 3/Activities/lagunaBeach.jpg "Laguna Beach")
 
 On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter? After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
 
