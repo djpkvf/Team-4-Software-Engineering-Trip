@@ -25,7 +25,7 @@ Transportation/Lodging: Braden
 We decided to plan the Flight, Transportation and Lodging first as constants, and then we planned the rest of the trip around these items. 
 ***
 ### Flight
-
+***
 | Date          | Depart        | Arrive       |  
 | ------------- | ------------- |:------------:|
 | 12/17/17      | COU 05:50 AM  | LAX 09:42 AM |
@@ -91,9 +91,9 @@ Fuel Estimate 2 Vehicles=$320
 **Total Transportation budget= $570-$1520**
 
 
-
+***
 ### Lodging
-
+***
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" alt="Mid-Century Home" style="width:120px;height:90;">
 
 To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and other desirable California destinations. With 4 beds, only one team member will have to sleep on the sofa!
