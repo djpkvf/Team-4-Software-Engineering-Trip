@@ -15,6 +15,7 @@ Days assigned to each member:
 | Day 5  | Murphy      |
 
 Transportation/Lodging: Braden
+
 Flights: Dominic
 
 ## Logistics
@@ -38,9 +39,13 @@ Total Budget:
 ### Day 2
 
 Total Budget:
-### Day 3
+### Day 3- Laguna Beach
 
-Total Budget:
+On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter? After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
+
+In the evening we will hit up the classy Speakeasy like VIP's, and then party as hard as a bunch of CS/IT nerds can manage at the swanky Club 54.
+
+Total Budget: $900 for meals/drinks + $670 for activities = $1570
 ### Day 4
 
 Total Budget:
