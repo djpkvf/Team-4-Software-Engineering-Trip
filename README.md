@@ -32,13 +32,13 @@ We decided to plan the Flight, Transportation and Lodging first as constants, an
 
 A family member will take us to the Columbia Airport.
 
-Our flight to Los Angeles leaves at 5:50am on Sunday December 17th, but we will arrive an hour early to make it through security. We will arrive at 9:42 am in LAX and rent a vehicle to leave the airport and drive to our Air BnB in Pasadena.
+Our flight to Los Angeles with United Airlines leaves at 5:50am on Sunday December 17th, but we will arrive an hour early to make it through security. We will arrive at 9:42 am in LAX and rent a vehicle to leave the airport and drive to our Air BnB in Pasadena.
 
 
-Our flight back to Columbia leaves at 12:00pm on Thursday December 21 and we will arrive back home in Columbia at 8:37pm where a family member will take us home. 
+Our flight back to Columbia leaves at 12:00pm on Thursday December 21 with United Airlines and we will arrive back home in Columbia at 8:37pm where a family member will take us home. 
 
 
-
+Flight Cost: $2,412
 
 ***
 ### Transportation
