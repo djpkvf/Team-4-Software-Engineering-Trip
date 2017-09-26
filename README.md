@@ -149,6 +149,9 @@ Ahhh Day 4, the day that I've been waiting for. Disneyland is cool, sure, but it
 
 Activity 1 is no big deal...we're just going to go to the new STAR WARS!! Now, it has been hard for me to refrain not sneaking out at night and going, but I refrained so to save face with my cohorts. It has been difficult nonetheless. Considering price of tickets, and a large popcor and a few drinks we spend $125.00. 
 
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%204/Murphy's%20Day/lastJedi.jpg" alt="Hamilton" style="width:100px;height:90;">
+
+
 After the movie, we go to Leo's Taco Stand, a recommendation from my friend in the area, this meal is going to be super affordable considering that there are items on the menu that run for $1.00. It is like Dollar General for your mouth, and I love it. Just to be safe...let's say we all spend $8.00 because I decide to go ham(I actually eat carnitas). $40.00. (It is Cash Only, so we have to remember to get some money once we stop)
 
 Now this one will hurt the wallet the most, but it will defintely strike the strongest chord(all puns intended). We are going to go to HAMILTON!!!!!!!! This trip is only 16 minutes away, but considering the timing, let's leave 2 hours and 16 minutes prior to the performance.  Tickets weren't cheap....$417 per, but considering our proximity to greatness, it'll be worth it.
