@@ -108,12 +108,15 @@ Day 1 Budget:
 On Day 2, we are going for a full day trip to Disneyland! It will take us about an hour to get there, so we'll rise early and leave before 7 to get to the park when it opens! We will start our day there with breakfast at Carnation Cafe. We will be free to wander around Disneyland and its seven themed areas, making use of our MAXpass that allows us to make Fastpass tickets on our mobile devices, until we get hungry again and head to our lunch destination Bengal Barbecue.
 
 We have two activities planned for the evening. First, a reservation for Fantasmic! Dining Packages for dinner at Blue Bayou at 6:00. There we get to eat dinner and view the Fantasmic! show.
+
 *Blue Bayou*
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/blue-bayou-restaurant-00.jpg" alt="Blue Bayou" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/blue-bayou-restaurant-00.jpg" alt="Blue Bayou" style="width:120px;height:90;">
+
 *Fantasmic!*
-<img src=" https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/fantasmic_primary1.jpg" alt="Disneyland Fireworks" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/fantasmic_primary1.jpg" alt="Disneyland Fireworks" style="width:120px;height:90;">
+
 Finally, we will definitely make sure to catch the fireworks show at 9:30.
-<img src=" https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disney-fireworks.jpg" alt="Fantasmic" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disney-fireworks.jpg" alt="Fantasmic" style="width:120px;height:90;">
 
 Day 2 Budget: $95 for meals/drinks + $141 for tickets/entrance + $100+ souvenirs/extras = $336+ per person
 ### Day 3- Laguna Beach
