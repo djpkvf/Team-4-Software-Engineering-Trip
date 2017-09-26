@@ -81,8 +81,9 @@ Fuel Estimate 1 Vehicle= $160
 Fuel Estimate 2 Vehicles=$320  
 </details>
 
+<div style="padding-top: 30px">
 **Total Transportation budget= $570-$1520**
-
+</div>
 
 ***
 ### Lodging
