@@ -153,6 +153,8 @@ After the movie, we go to Leo's Taco Stand, a recommendation from my friend in t
 
 Now this one will hurt the wallet the most, but it will defintely strike the strongest chord(all puns intended). We are going to go to HAMILTON!!!!!!!! This trip is only 16 minutes away, but considering the timing, let's leave 2 hours and 16 minutes prior to the performance.  Tickets weren't cheap....$417 per, but considering our proximity to greatness, it'll be worth it.
 
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%204/Murphy's%20Day/la-hamilton.jpg" alt="Hamilton" style="width:100px;height:90;">
+
 After we cry from exposure to pure awesomeness, we are going to stop by this little ice cream shop that I heard about called -8 Degrees Celsius Ice Cream. Amongst the bunch of us, let's shoot for $40.00 of expenditures.
 
 Day 4 Budget: 56.50 + 125.00 + 40.00 + 2085.00 + 40.00 = $2221.52
