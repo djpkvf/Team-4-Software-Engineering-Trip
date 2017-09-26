@@ -20,11 +20,6 @@ Transportation/Lodging: Braden
 
 Flights: Dominic
 
-<details>
-  <summary>Click to expand</summary>
-  This is a test
-</details>
-
 ## Logistics
 
 We decided to plan the Flight, Transportation and Lodging first as constants, and then we planned the rest of the trip around these items. 
@@ -49,8 +44,8 @@ Vehicle options:
 Fun Budget: $1200, 2 cool cars
 
 Boring Budget: $410, 1 boring SUV
-
-**Fuel**
+<details>
+  <summary>**Fuel**</summary>
 
 [Gas prices are $2.97 in Pasadena](https://www.gasbuddy.com/GasPrices/California/Pasadena). Estimating 7 hours of driving time every day with a [Jeep Cherokee at 21 miles/gallon in the city](https://www.google.com/search?q=mpg+for+jeep+cherokee&rlz=1C1CHBD_enUS728US729&oq=mpg+for+jeep+chero&aqs=chrome.0.0j69i57j0l4.4240j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -67,7 +62,10 @@ $35 * 4 days + $17.50 * 1 day (last day will have little driving) = $157.50 or a
 Fuel Estimate 1 Vehicle= $160
 
 
-Fuel Estimate 2 Vehicles=$320
+Fuel Estimate 2 Vehicles=$320  
+</details>
+
+
 
 
 **Total Transportation budget= $570-$1520**
