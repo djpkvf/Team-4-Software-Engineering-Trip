@@ -111,15 +111,15 @@ We have two activities planned for the evening. First, a reservation for Fantasm
 
 *Blue Bayou*
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/blue-bayou-restaurant-00.jpg" alt="Blue Bayou" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/blue-bayou-restaurant-00.jpg" alt="Blue Bayou" style="width:100px;height:90;">
 
 *Fantasmic!*
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/fantasmic_primary1.jpg" alt="Fantasmic!" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/fantasmic_primary1.jpg" alt="Fantasmic!" style="width:100px;height:90;">
 
 Finally, we will definitely make sure to catch the fireworks show at 9:30.
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disney-fireworks.jpg" alt="Fireworks Show" style="width:120px;height:90;">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%202/disney-fireworks.jpg" alt="Fireworks Show" style="width:100px;height:90;">
 
 Day 2 Budget: $95 for meals/drinks + $141 for tickets/entrance + $100+ souvenirs/extras = $336+ per person
 ### Day 3- Laguna Beach
