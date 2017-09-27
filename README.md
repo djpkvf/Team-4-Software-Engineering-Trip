@@ -173,9 +173,6 @@ Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90px;">
 
-On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! We're gonna learn to surf! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
-
-In the evening we will hit up the classy Speakeasy like VIP's, and then party as hard as a bunch of CS/IT nerds can manage at the swanky Club 54.
 
 <details>
   <summary> Click here for Full Ititerary for Day 3 </summary>
@@ -210,6 +207,12 @@ Laguna beach is 1hr 13 minutes away, realistically budget for 2 hours.
 
 10pm- Group decides which bars to go to (if any), many options and exciting nightlife! Club 54 highly reccomended because we can all be VIP with our outrageous budget. $10 cover for club 54, $5 for parking
 </details>
+
+**Day 3 Summary** 
+
+On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! We're gonna learn to surf! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
+
+In the evening we will hit up the classy Speakeasy like VIP's, and then party as hard as a bunch of CS/IT nerds can manage at the swanky Club 54.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IbtU0OmzZbc
 " target="_blank"><img src="http://img.youtube.com/vi/IbtU0OmzZbc/0.jpg" 
