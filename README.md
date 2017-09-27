@@ -1,6 +1,6 @@
 # Team-4-Software-Engineering-Trip
 
-## Trip to Pasadena, California
+## Trip to Los Angeles, California
 
 **Introduction and SCRUM**
 
@@ -35,7 +35,7 @@ For this Software Engineering project, were assigned the task of choosing a trip
 
 | Requirement  | Description         |
 | ------------ |:-------------------:|
-| Location     | Pasadena, Location  |
+| Location     | LA, California      |
 | Purpose      | Most fun per $ spent|
 
 **Trip Constraints**
@@ -130,7 +130,7 @@ Fuel Estimate 2 Vehicles=$320
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" width="360" height="270">
 
-To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and other desirable California destinations. With 4 beds, only one team member will have to sleep on the sofa!
+To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and our other favorite Los Angeles destinations. With 4 beds, only one team member will have to sleep on the sofa!
 
 It is suggested that team members program a psuedo-random number generator to fairly decide who gets to sleep on the sofa.
 
