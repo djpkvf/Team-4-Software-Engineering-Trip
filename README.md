@@ -128,7 +128,7 @@ Fuel Estimate 2 Vehicles=$320
 ### Lodging
 ***
 
-<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" width="120" height="90">
+<img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/lodgingPlan/rentalHouse.jpg" width="360" height="270">
 
 To save money and have a cozy experience, we will be staying at an affordable "mid-century" AirBnB house in Pasadena for 4 nights at $104/night. It it conveniently located near Disneyland, Laguna Beach and other desirable California destinations. With 4 beds, only one team member will have to sleep on the sofa!
 
@@ -173,46 +173,13 @@ Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90px;">
 
-
-<details>
-  <summary> Full Ititerary for Day 3 </summary>
-
-Wake up at 5:30 am, pick up Bacon,Eggs,OJ, Sausage from Bristol's Market
-
-6am- Cook Breakfast
-
-6:30am-7 Eat Breakfast
-
-7:00am- make reservations for Driftwood Kitchen (lunch) and 
-
-7:15- Leave for Laguna Beach and Surf Lesson (It will be December, but wet suit is included!)
-
-Laguna beach is 1hr 13 minutes away, realistically budget for 2 hours.
-
-(There is a toll on the way to Laguna, max $10 times both ways = $20) 
-
-9:15- Find parking, etc. (budget $20 for parking)
-
-10am- 2 hour surf lesson for group ($80/each, $400 total)
-
-12pm- lunch at Driftwood Kitchen
-
-1pm- Rent Equipment for surfing ($22-45/each, total $110-$225) 
-
-1:30pm-6pm Surf, hang out, free time at the beach
-
-6-8pm- Drive to the Parkway Grill
-
-8-9pm- Dinner
-
-10pm- Group decides which bars to go to (if any), many options and exciting nightlife! Club 54 highly reccomended because we can all be VIP with our outrageous budget. $10 cover for club 54, $5 for parking
-</details>
-
 **Day 3 Summary** 
 
 On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! We're gonna learn to surf! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
 
 In the evening we will hit up the classy Speakeasy like VIP's, and then party as hard as a bunch of CS/IT nerds can manage at the swanky Club 54.
+
+[Click here for the full Day 3 Itinerary](https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/master/Trip%20Days/Day%203/Activities/Day3Itenerary.txt)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IbtU0OmzZbc
 " target="_blank"><img src="http://img.youtube.com/vi/IbtU0OmzZbc/0.jpg" 
