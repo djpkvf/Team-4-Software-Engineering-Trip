@@ -1,25 +1,5 @@
 #Day 3 Itenerary
 
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @hackerbuddy
- Sign out
- Unwatch 4
-  Star 0  Fork 0 djpkvf/Team-4-Software-Engineering-Trip
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathTeam-4-Software-Engineering-Trip/Trip Days/Day 3/Activities/Day3Itenerary.txt
-6c76e96  2 days ago
-@hackerbuddy hackerbuddy Added Meals, Activities, Total Budget
-1 contributor
-RawBlameHistory     
-37 lines (19 sloc)  1.14 KB
-Daytrip Planning:
-
 Wake up at 5:30 am, pick up Bacon,Eggs,OJ, Sausage from Bristol's Market
 
 6am- Cook Breakfast
