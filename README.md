@@ -175,7 +175,7 @@ Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 
 
 
 <details>
-  <summary> Click here for Full Ititerary for Day 3 </summary>
+  <summary> Full Ititerary for Day 3 </summary>
 
 Wake up at 5:30 am, pick up Bacon,Eggs,OJ, Sausage from Bristol's Market
 
