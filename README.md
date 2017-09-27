@@ -139,7 +139,7 @@ Lodging Budget: $481
 
 ## Days
 
-### Day 1- Los Angeles
+### Day 1- [Los Angeles] (https://github.com/djpkvf/Team-4-Software-Engineering-Trip/tree/master/Trip%20Days/Day%201)
 
 Our adventure in Los Angeles will begin at 9:42am.  In order to take in the most from LA we will want to see everything that it has to offer by going to Griffith's Observatory.  First, we will need to gather our luggage and then pick up our rental car.  We'll then get brunch at the Daily Grill, and then head to our rental house.  From there, we will then head to the observatory.  Parking is free, and the shuttle only cost $0.50 per person, so it's a cheap place to visit!
 
