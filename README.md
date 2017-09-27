@@ -46,8 +46,6 @@ For this Software Engineering project, were assigned the task of choosing a trip
 | Date        | Dec.17-21   |
 | Duration    | 5 days      |
 
-When we first started the project, there was a great deal of confusion on how to organize the Sprints for such a short project. But after Dominic arranged the flights, Lydia looked at transportation options and decided it was a good idea to plan Logistics for the trip first before assigning any more tasks on Axosoft. Thus, we dedicated our first Sprint to preliminary planning, and thereafter focused on planning the Days, and then finally getting everything on GitHub and using Markdown.
-
 **Tasks assigned to each member**:
 
 | Task        | Team Member |
