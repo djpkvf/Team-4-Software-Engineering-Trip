@@ -2,17 +2,29 @@
 
 ## Trip to Pasadena, California
 
-### Project Requirements and General Information
+**Introduction**
+
+This is the Github Trip project file for Team 4 Software Engineering Class at Mizzou. 
+
+We used SCRUM methodology to plan this trip. After choosing SCRUM, we broke our work down into 3 sprints over 3 weeks. 
+ 
+
+| Sprints      | Value                               |
+| ------------ |:-----------------------------------:|
+| Sprint 1     | Schedule Logistics, learn Axosoft   |
+| Sprint 2     | Work on Plan for each Day           |
+| Sprint 3     | Finalize: Upload to GitHub, Markdown|
+
+## Project Requirements 
+
+For this Software Engineering project, were assigned the task of choosing a trip location with a purpose. We were also given fixed Money and Time constraints, which we followed closely.
 
 **Trip Requirements**
 
-| Requirement  | Value               |
+| Requirement  | Description         |
 | ------------ |:-------------------:|
 | Location     | Pasadena, Location  |
 | Purpose      | Most fun per $ spent|
-
-
-
 
 **Trip Constraints**
 
@@ -21,8 +33,6 @@
 | Money       | $12,500/team|
 | Date        | Dec.17-21   |
 | Duration    | 5 days      |
-
-
 
 
 Tasks assigned to each member:
