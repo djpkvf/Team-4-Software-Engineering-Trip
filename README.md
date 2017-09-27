@@ -2,23 +2,24 @@
 
 ## Trip to Pasadena, California
 
+## Project Constraints
+
 **Trip Budget= $12,500**
 
-Days assigned to each member:
+**Time Constraint: Dec.17-Dec.21**
 
-| Day    | Team Member |
-| ------ |:-----------:|
-| Day 1  | Dominic     |
-| Day 2  | Lydia       |
-| Day 3  | Braden      |
-| Day 4  | Calvin      |
-| Day 5  | Murphy      |
+Days and Tasks assigned to each member:
 
-Flights: Dominic
-
-Transportation/Lodging: Braden
-
-
+| Task        | Team Member |
+| ----------- |:-----------:|
+| Day 1       | Dominic     |
+| Day 2       | Lydia       |
+| Day 3       | Braden      |
+| Day 4       | Calvin      |
+| Day 5       | Murphy      |
+| Flights     | Dominic     |
+| Tranport    | Braden      |
+| Lodging     | Braden      |
 
 ## Logistics
 
@@ -147,7 +148,7 @@ Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
 ### Day 4
 Ahhh Day 4, the day that I've been waiting for. Disneyland is cool, sure, but it doesn't match the cinematic value of Day 4. We start bright and early, Dominic is hard to wake up considering has absurd night before, but we get him up nonetheless; there's too much to do and not enough(just enough) time. We get up at 6:50, leave by 7:15, ( with enough time to fill up on gas) and then drive to Inglewood to go to The Rust Pot Cafe. Now the name may imply trash, but the food is anything but. Calvin gets the bully omelet($14.00), Dominic, still sick, gets the famous Belgian waffle($7.50), Braden get's the scrambled jamble($11.00), I get the big breakfast burger($12.00), and Lydia gets the overloaded breakfast sandwich($12.00); altogether we are set back $56.50.
 
-Activity 1 is no big deal...we're just going to go to the new STAR WARS!! Now, it has been hard for me to refrain not sneaking out at night and going, but I refrained so to save face with my cohorts. It has been difficult nonetheless. Considering price of tickets, and a large popcor and a few drinks we spend $125.00. 
+Activity 1 is no big deal...we're just going to go to the new STAR WARS!! Now, it has been hard for me to refrain not sneaking out at night and going, but I refrained so to save face with my cohorts. It has been difficult nonetheless. Considering price of tickets, and a large popcorn and a few drinks we spend $125.00. 
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%204/Murphy's%20Day/lastJedi.jpg" alt="Hamilton" style="width:100px;height:90;">
 
