@@ -4,7 +4,7 @@
 
 **Introduction and SCRUM**
 
-This is the Github Trip project file for Team 4 Software Engineering Class at Mizzou. 
+This is the Team 4 Github Trip project file for Software Engineering Class at Mizzou. 
 
 We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. After choosing SCRUM and assigning roles to each group member, we broke our work down into 3 sprints over 3 weeks. 
 
@@ -18,7 +18,6 @@ We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. Afte
 | Dominic      | Developer     |
 | Murphy       | Developer     |
 
-
 **Sprints**
 
 | Sprints      | Value                               |
@@ -26,6 +25,7 @@ We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. Afte
 | Sprint 1     | Schedule Logistics, learn Axosoft   |
 | Sprint 2     | Work on Plan for each Day           |
 | Sprint 3     | Finalize: Upload to GitHub, Markdown|
+
 
 ## Project Requirements 
 
@@ -46,19 +46,21 @@ For this Software Engineering project, were assigned the task of choosing a trip
 | Date        | Dec.17-21   |
 | Duration    | 5 days      |
 
+When we first started the project, there was a great deal of confusion on how to organize the Sprints for such a short project. But after Dominic arranged the flights, Lydia looked at transportation options and decided it was a good idea to plan Logistics for the trip first before assigning any more tasks on Axosoft. Thus, we dedicated our first Sprint to preliminary planning, and thereafter focused on planning the Days, and then finally getting everything on GitHub and using Markdown.
 
 **Tasks assigned to each member**:
 
 | Task        | Team Member |
 | ----------- |:-----------:|
+| Flights     | Dominic     |
+| Tranport    | Lydia       |
+| Lodging     | Braden      |
 | Day 1       | Dominic     |
 | Day 2       | Lydia       |
 | Day 3       | Braden      |
 | Day 4       | Calvin      |
 | Day 5       | Murphy      |
-| Flights     | Dominic     |
-| Tranport    | Braden      |
-| Lodging     | Braden      |
+| Markdown    | Braden      |
 
 ## Logistics
 
