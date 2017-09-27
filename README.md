@@ -139,7 +139,7 @@ Lodging Budget: $481
 
 ## Days
 
-### Day 1
+### Day 1- Los Angeles
 
 Our adventure in Los Angeles will begin at 9:42am.  In order to take in the most from LA we will want to see everything that it has to offer by going to Griffith's Observatory.  First, we will need to gather our luggage and then pick up our rental car.  We'll then get brunch at the Daily Grill, and then head to our rental house.  From there, we will then head to the observatory.  Parking is free, and the shuttle only cost $0.50 per person, so it's a cheap place to visit!
 
@@ -184,7 +184,7 @@ alt="Club54" width="240" height="180" border="10" /></a>
 *Club 54*
 
 Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
-### Day 4
+### Day 4- Starwars and Hamilton
 Ahhh Day 4, the day that I've been waiting for. Disneyland is cool, sure, but it doesn't match the cinematic value of Day 4. We start bright and early, Dominic is hard to wake up considering has absurd night before, but we get him up nonetheless; there's too much to do and not enough(just enough) time. We get up at 6:50, leave by 7:15, ( with enough time to fill up on gas) and then drive to Inglewood to go to The Rust Pot Cafe. Now the name may imply trash, but the food is anything but. Calvin gets the bully omelet($14.00), Dominic, still sick, gets the famous Belgian waffle($7.50), Braden get's the scrambled jamble($11.00), I get the big breakfast burger($12.00), and Lydia gets the overloaded breakfast sandwich($12.00); altogether we are set back $56.50.
 
 Activity 1 is no big deal...we're just going to go to the new STAR WARS!! Now, it has been hard for me to refrain not sneaking out at night and going, but I refrained so to save face with my cohorts. It has been difficult nonetheless. Considering price of tickets, and a large popcorn and a few drinks we spend $125.00. 
@@ -235,7 +235,9 @@ Can't forget to allocate $100 each for good-ole souvenirs (*5 people = **$500**)
 
 Day 5 Budget: **$1280 Total**, **$256** individually :+1:
 
+## Final Notes
 
+In the end, we stayed within our time constraints and we spent $11,726.52 our of our $12,500 budget. More importantly, we all learned how to use SCRUM on Axosoft to keep track of our progress, Git for version control and Markdown to look good.
 
 ## Special Thanks
 Thanks to Adam on Github for the [Markdown Tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
