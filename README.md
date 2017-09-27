@@ -2,13 +2,30 @@
 
 ## Trip to Pasadena, California
 
-## Project Constraints
+### Project Requirements and General Information
 
-**Trip Budget= $12,500**
+**Trip Requirements**
 
-**Time Constraint: Dec.17-Dec.21**
+| Requirement  | Value               |
+| ------------ |:-------------------:|
+| Location     | Pasadena, Location  |
+| Purpose      | Most fun per $ spent|
 
-Days and Tasks assigned to each member:
+
+
+
+**Trip Constraints**
+
+| Constraint  | Value       |
+| ----------- |:-----------:|
+| Money       | $12,500/team|
+| Date        | Dec.17-21   |
+| Duration    | 5 days      |
+
+
+
+
+Tasks assigned to each member:
 
 | Task        | Team Member |
 | ----------- |:-----------:|
