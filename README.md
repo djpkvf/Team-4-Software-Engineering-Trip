@@ -9,6 +9,7 @@ This is the Github Trip project file for Team 4 Software Engineering Class at Mi
 We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. After choosing SCRUM and assigning roles to each group member, we broke our work down into 3 sprints over 3 weeks. 
 
 **Team Roles**
+
 | Team Member  | Role          |
 | ------------ |:-------------:|
 | Calvin       | Scrum Master  | 
