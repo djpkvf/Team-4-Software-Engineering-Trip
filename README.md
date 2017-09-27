@@ -173,17 +173,51 @@ Day 2 Budget: $95 * 5 for meals/drinks + $141 * 5 for tickets/entrance + $100 * 
 
 <img src="https://github.com/djpkvf/Team-4-Software-Engineering-Trip/blob/features/Trip%20Days/Day%203/Activities/lagunaBeach.jpg" alt="Laguna Beach" style="width:120px;height:90px;">
 
-On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
+On Day 3, we will get up early after cooking eggs and bacon and go to Laguna beach for a 2 hour surf lesson! Who cares that it's winter! We're gonna learn to surf! After renting wetsuits and boards and surfing for the day, we will eat at snazzy places such as the Driftwood Kitchen and the famous Parkway Grill.
 
 In the evening we will hit up the classy Speakeasy like VIP's, and then party as hard as a bunch of CS/IT nerds can manage at the swanky Club 54.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IbtU0OmzZbc
 " target="_blank"><img src="http://img.youtube.com/vi/IbtU0OmzZbc/0.jpg" 
-alt="Club54" width="240" height="180" border="10" /></a>
-
+alt="Club54" width="480" height="360" border="10" /></a>
 *Club 54*
 
+<details>
+  <summary> Click here for Full Ititerary for Day 3 </summary>
+
+Wake up at 5:30 am, pick up Bacon,Eggs,OJ, Sausage from Bristol's Market
+
+6am- Cook Breakfast
+
+6:30am-7 Eat Breakfast
+
+7:00am- make reservations for Driftwood Kitchen (lunch) and 
+
+7:15- Leave for Laguna Beach and Surf Lesson (It will be December, but wet suit is included!)
+
+Laguna beach is 1hr 13 minutes away, realistically budget for 2 hours.
+
+(There is a toll on the way to Laguna, max $10 times both ways = $20) 
+
+9:15- Find parking, etc. (budget $20 for parking)
+
+10am- 2 hour surf lesson for group ($80/each, $400 total)
+
+12pm- lunch at Driftwood Kitchen
+
+1pm- Rent Equipment for surfing ($22-45/each, total $110-$225) 
+
+1:30pm-6pm Surf, hang out, free time at the beach
+
+6-8pm- Drive to the Parkway Grill
+
+8-9pm- Dinner
+
+10pm- Group decides which bars to go to (if any), many options and exciting nightlife! Club 54 highly reccomended because we can all be VIP with our outrageous budget. $10 cover for club 54, $5 for parking
+</details>
+
 Day 3 Budget: $900 for meals/drinks + $670 for activities = $1570
+
 ### Day 4- Starwars and Hamilton
 Ahhh Day 4, the day that I've been waiting for. Disneyland is cool, sure, but it doesn't match the cinematic value of Day 4. We start bright and early, Dominic is hard to wake up considering has absurd night before, but we get him up nonetheless; there's too much to do and not enough(just enough) time. We get up at 6:50, leave by 7:15, ( with enough time to fill up on gas) and then drive to Inglewood to go to The Rust Pot Cafe. Now the name may imply trash, but the food is anything but. Calvin gets the bully omelet($14.00), Dominic, still sick, gets the famous Belgian waffle($7.50), Braden get's the scrambled jamble($11.00), I get the big breakfast burger($12.00), and Lydia gets the overloaded breakfast sandwich($12.00); altogether we are set back $56.50.
 
@@ -237,7 +271,7 @@ Day 5 Budget: **$1280 Total**, **$256** individually :+1:
 
 ## Final Notes
 
-In the end, we stayed within our time constraints and we spent $11,726.52 our of our $12,500 budget. More importantly, we all learned how to use SCRUM on Axosoft to keep track of our progress, Git for version control and Markdown to look good.
+In the end, we stayed within our time constraints and we spent $11,726.52 our of our $12,500 budget. More importantly, we all learned how to use SCRUM on Axosoft to keep track of our progress, Git for version control and Markdown to look good. :+1:
 
 ## Special Thanks
 Thanks to Adam on Github for the [Markdown Tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
