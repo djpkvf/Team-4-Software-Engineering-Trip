@@ -2,12 +2,23 @@
 
 ## Trip to Pasadena, California
 
-**Introduction**
+**Introduction and SCRUM**
 
 This is the Github Trip project file for Team 4 Software Engineering Class at Mizzou. 
 
-We used SCRUM methodology to plan this trip. After choosing SCRUM, we broke our work down into 3 sprints over 3 weeks. 
- 
+We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. After choosing SCRUM and assigning roles to each group member, we broke our work down into 3 sprints over 3 weeks. 
+
+**Team Roles**
+| Team Member  | Role          |
+| ------------ |:-------------:|
+| Calvin       | Scrum Master  | 
+| Braden       | Product Owner |
+| Lydia        | Developer     |
+| Dominic      | Developer     |
+| Murphy       | Developer     |
+
+
+**Sprints**
 
 | Sprints      | Value                               |
 | ------------ |:-----------------------------------:|
@@ -35,7 +46,7 @@ For this Software Engineering project, were assigned the task of choosing a trip
 | Duration    | 5 days      |
 
 
-Tasks assigned to each member:
+**Tasks assigned to each member**:
 
 | Task        | Team Member |
 | ----------- |:-----------:|
