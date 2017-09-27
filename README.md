@@ -6,7 +6,7 @@
 
 This is the Team 4 Github Trip project file for Software Engineering Class at Mizzou. 
 
-We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. After choosing SCRUM and assigning roles to each group member, we broke our work down into 3 sprints over 3 weeks. 
+We used [SCRUM](https://www.scrumalliance.org/why-scrum) to plan this trip. After creating an Axosoft account and assigning roles to each group member, we broke our work down into 3 sprints over 3 weeks. You can see our SCRUM board [here](https://cjt6fd.axosoft.com/)
 
 **Team Roles**
 
